@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <h1 className="text-2xl text-center">Start Music Academy Project</h1>
+    <h2 className="text-2xl text-center mt-8">Start Music Academy Project</h2>
   );
 }
