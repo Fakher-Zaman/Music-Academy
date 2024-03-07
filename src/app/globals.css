@@ -27,4 +27,8 @@ body {
   .text-balance {
     text-wrap: balance;
   }
+
+  .example::-webkit-scrollbar {
+    display: none;
+  }
 }
